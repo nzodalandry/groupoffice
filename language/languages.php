@@ -23,7 +23,6 @@ $languages['fr']='Francais';
 $languages['hr']='Hrvatski';
 $languages['it']='Italiano';
 $languages['id']='Bahasa Indonesia';
-$languages['hu']='Magyar';
 $languages['nl']='Nederlands';
 $languages['nb']='Norsk bokmål';
 $languages['pl']='Polski';
@@ -36,5 +35,4 @@ $languages['tr']='Türkçe';
 $languages['th']='ไทย';
 $languages['vi']='Tiếng Việt';
 $languages['bg']="Български";
-
 $language_aliases['no']='nb';
